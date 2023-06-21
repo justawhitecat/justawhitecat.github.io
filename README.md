@@ -1,2 +1,0 @@
-# justawhitecat.github.io
-website

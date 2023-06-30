@@ -1,0 +1,12 @@
+<table width="600" style="border: 1px #ffffff solid; background-color: #000000; color: #ffffff;" cellpadding="4">
+    <tr>
+        <td bgcolor="#121d2f">
+            <b style="font-size: 25px;">sample text</b><br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            sample text 2
+        </td>
+    </tr>
+</table>
